@@ -1,4 +1,4 @@
-import { Button } from "@acme/core";
+import { Button } from "@mkaf/core";
 
 export default function Page() {
   return (
